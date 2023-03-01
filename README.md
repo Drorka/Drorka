@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dror 👋
 </h1>
-<h3 align="center">I'm a Full Stack Developer</h3>
+<h3 align="left">I'm a Full Stack Developer</h3>
 
-<p align="left">You can connect with me on 
+<h3 align="left">You can connect with me on 
 <a href="https://linkedin.com/in/dror-k" target="blank"
 	>LinkedIn</a>
-  </p>
+  </h3>
 
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left">
