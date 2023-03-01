@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Dror 👋
 </h1>
-<h3 align="left">I'm a Full Stack Developer</h3>
+<p align="left">I'm a Full Stack Developer</p>
+<p align="left">Check out my latest project - <a href="https://merllo.onrender.com" target="blank"
+	>Merllo</a> (a clone of Trello)</p>
 
-<h3 align="left">You can connect with me on 
+<p align="left">You can connect with me on 
 <a href="https://linkedin.com/in/dror-k" target="blank"
 	>LinkedIn</a>
-  </h3>
+  </p>
 
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left">
