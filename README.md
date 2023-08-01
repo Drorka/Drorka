@@ -4,6 +4,9 @@
 <p align="left">Check out my latest project - <a href="https://merllo.onrender.com" target="blank"
 	>Merllo</a> (a clone of Trello)</p>
 
+ <p align="left"><a href="https://app.netlify.com/sites/glistening-tulumba-295dd2/deploys" target="blank"
+	>My Portfolio</a></p>
+
 <p align="left">You can connect with me on 
 <a href="https://linkedin.com/in/dror-k" target="blank"
 	>LinkedIn</a>
